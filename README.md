@@ -1,18 +1,25 @@
 # MPEL-Open
 
-# Part 1:
-# Demo: GitHub, Mendeley, and Overleaf. 
+# Demo - Part 1: GitHub, Mendeley, and Overleaf. 
 
-GitHub: 
+# GitHub: 
+
 Web: https://github.com/
+
 Desktop client: https://desktop.github.com/
 
-Mendeley:
+# Mendeley:
+
 Web: https://www.mendeley.com
+
 Desktop App: https://www.mendeley.com/download-desktop/
 
-Overleaf: 
+# Overleaf: 
+
 Web: www.overleaf.com
+
 An example file: 
+
 Edit: https://www.overleaf.com/7727243667mvdqkhxhxkfs
+
 View only: https://www.overleaf.com/read/mnfschpyrnmr
