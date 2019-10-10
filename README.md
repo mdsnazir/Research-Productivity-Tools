@@ -23,3 +23,6 @@ An example file:
 Edit: https://www.overleaf.com/7727243667mvdqkhxhxkfs
 
 View only: https://www.overleaf.com/read/mnfschpyrnmr
+
+# TexStudio
+https://www.texstudio.org/
