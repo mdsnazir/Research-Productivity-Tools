@@ -1,6 +1,8 @@
-# MPEL-Open
+# MPEL
 
-# Demo - Part 1: GitHub, Mendeley, and Overleaf. 
+# Demo - Research Productivity Tools 
+
+# Part 1: GitHub, Mendeley, and Overleaf. 
 
 # GitHub: 
 
