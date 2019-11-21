@@ -27,5 +27,5 @@ View only: https://www.overleaf.com/read/mnfschpyrnmr
 # TexStudio
 https://www.texstudio.org/
 
-# Link to presentation from Jonas on Jypyter, TexStudio, Atom and Git. 
+# Link to presentation from Jonas on Jupyter, TexStudio, Atom and Git. 
 http://kersulis.github.io/presentations/2016-03-24-group-presentation/
