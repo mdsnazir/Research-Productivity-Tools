@@ -1,8 +1,7 @@
-# MPEL
 
 # Demo - Research Productivity Tools 
 
-# Part 1: GitHub, Mendeley, and Overleaf. 
+# GitHub, Mendeley, Overleaf and TexStudio
 
 # GitHub: 
 
