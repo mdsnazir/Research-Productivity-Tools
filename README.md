@@ -5,13 +5,13 @@
 
 # GitHub: 
 
-Web: https://github.com/
+Web: https://github.com/ (learn about: project, repository, pull, clone, commit, ...)
 
-Desktop client: https://desktop.github.com/
+Desktop client: https://desktop.github.com/ (great for active code development)
 
 # Mendeley:
 
-Web: https://www.mendeley.com
+Web: https://www.mendeley.com 
 
 Desktop App: https://www.mendeley.com/download-desktop/
 
